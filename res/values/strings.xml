@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Alt Tab</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">@string/app_name</string>
+    <string name="title_activity_settings">Alt Tab</string>
+    <string name="enable">Show</string>
+    <string name="disable">Hide</string>
+    <string name="thank_you_message">Thank you for installing Alt Tab!</string>
+    <string name="instructions">Click \"Hide\" to temporarily remove app from the notification shade. Click \"Show\" to restore it or it will restore automatically when your device restarts. If notification is hidden, widget will not work.</string>
+	<string name="launch_app">Launch app</string>
+	<string name="no_recent_apps">No recent apps</string>
+</resources>
